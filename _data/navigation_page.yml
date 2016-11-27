@@ -1,0 +1,11 @@
+- name: "Tüm albümler"
+  url: "https://contestofchamps-tr.github.io/turkcerapinfo/archive/"
+
+- name: "Site hakkında"
+  url: "https://contestofchamps-tr.github.io/turkcerapinfo/info/"
+
+- name: "Iletişim"
+  url: "https://contestofchamps-tr.github.io/turkcerapinfo/contact/"
+
+- name: "Ben !!!"
+  url: "https://contestofchamps-tr.github.io/turkcerapinfo/admin/"

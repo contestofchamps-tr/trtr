@@ -1,0 +1,22 @@
+- name: 'Anasayfa'
+  url: '/'
+
+- name: '|'
+
+- name: 'Tüm albümler'
+  url: '/archive/'
+
+- name: '|'
+
+- name: 'Site Hakkında'
+  url: '/info/'
+
+- name: '|'
+
+- name: 'Ara'
+  url: '/search/'
+
+- name: '|'
+
+- name: 'Ben !!!'
+  url: '/admin/'
