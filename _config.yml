@@ -45,7 +45,7 @@ encoding      : utf-8
 # Define how many posts should be shown with headline, teaser, image, video
 # posts_with_teaser_limit: 1
 # Define how many posts should be shown in the list beneath the post(s)
-posts_list_limit: 10
+posts_list_limit: 12
 # Use <!--more--> in your posts to generate an excerpt and a teaser
 excerpt_separator: <!--more-->
 
@@ -121,7 +121,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'Harun ERCEYLAN'     # Default author for pages
+      author: 'xxx'     # Default author for pages
   -
     scope:
       path: ''
@@ -130,7 +130,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
       comments: false
-      author: 'Harun ERCEYLAN'     # Default author for posts
+      author: 'xxx'     # Default author for posts
 
 
 
@@ -140,7 +140,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id   : ''
 # alexa_verify_id          : ''
 
