@@ -1,5 +1,5 @@
 ---
-title: Allegro – Hypnotise
+title: Allegro
 layout: page
 ---
 
